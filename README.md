@@ -25,3 +25,20 @@ Cube/Sphere Changes= S : shifts selection from Cube to Sphere ,
                      K : deletes selected , 
                      N : initiates a new version of selected ,
                           
+
+LAB1 : DESCRIPTION
+
+there are two targets, cube is dynamic(rigidBody) and sphere is static. 
+The launcher is a blue object and projectile is on top if it as a red sphere bullet.
+To launch the project with medium speed, press Right arrow.
+To launch the project with fast speed, press UP arrow.
+To launch the project with slow speed, press Left arrow.
+To shift launcher to right(towards sphere target),press D.
+To shift launcher to left(towards cube target),press A.
+To shift launcher to up,press F.
+To shift launcher to down,press G.
+To switch to the Projectile Camera angle, press P.
+To switch to the Target Camera angle, press T.
+To switch to the Main/Launcher Camera angle, press M.
+
+                          
