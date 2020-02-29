@@ -25,6 +25,16 @@ Cube/Sphere Changes= S : shifts selection from Cube to Sphere ,
                      K : deletes selected , 
                      N : initiates a new version of selected ,
                           
+LAB0c : DESCRIPTION
+
+there are three animation clips: 
+RectBounce = animation of articulated object ( baseball and softball connected with a rod).
+flybycamera = animation of Camera zooming in on the movie poster with an attached spot light.
+seperatecube = a seperate cube animated on it's own , moving from left to right infront of the poster.
+
+To trigger the Camera Flyby Animation, press Space.
+To trigger the Articulated object animation, press Q.
+
 
 LAB1 : DESCRIPTION
 
