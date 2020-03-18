@@ -51,4 +51,13 @@ To switch to the Projectile Camera angle, press P.
 To switch to the Target Camera angle, press T.
 To switch to the Main/Launcher Camera angle, press M.
 
-                          
+Lab2: DESCRIPTION
+
+A button that adds primitive objects to the scene (in random locations/orientations) = LIndexTrigger on touch controller;  
+A button that allows objects to fall under the effect of gravity = B on touch controller;   
+A button to cause all objects to undergo an impulse force = A on touch controller; 
+global UI/screen overlay canvas triggered on and off by pressing the ‘m’ key on the keyboard.
+Local UI/World space canvas : button to change sphere's color to green. 
+                              slider to change sphere's scale between 1-5.
+                              button to change cube's position to right.
+                              slider to rotate cube.
